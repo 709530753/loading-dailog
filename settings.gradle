@@ -1,0 +1,2 @@
+include ':app', ':loadingdialog'
+rootProject.name='MainApplication'
